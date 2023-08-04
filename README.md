@@ -14,16 +14,29 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Alex <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
-<h1 align="center">I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.</h1> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+
+
+
+</div>
+
+<div id="badges" align="center">
+  <a href="www.linkedin.com/in/aliaksandr-yarmosh">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrkrimers&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
 ### :man_technologist: About Me :
 <div>
 
+<p align="center">I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.</p> 
 <ul>
   <li>About 1 year of professional experience as a JavaScript/Node.js developer, specializing in software application development.</li>
   <li>Skilled in back-end development with Node.js</li>
@@ -32,7 +45,22 @@ Here are some ideas to get you started:
   <li>Proficient in utilizing testing frameworks like Jest and Mocha to ensure reliable and high-quality code</li>
   <li>Considerable experience in object oriented programming, implementation SOLID and REST principles</li>
 </ul>
+  💬 Ask me about anything, I am happy to help.
   
+  :mailbox:How to reach me: mrkrimerssasha@gmail.com
+</div>
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ---
