@@ -13,19 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Alex <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
+<h1 align="center">Hi there, I'm Alex <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
+<h1 align="center">I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.</h1> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+---
+### :man_technologist: About Me :
+<div>
 
-
-
-
-
+<ul>
+  <li>About 1 year of professional experience as a JavaScript/Node.js developer, specializing in software application development.</li>
+  <li>Skilled in back-end development with Node.js</li>
+  <li>Hands-on experience with client-server architectures</li>
+  <li>Experienced in utilizing databases like PostgreSQL, MySQL, and MongoDB</li>
+  <li>Proficient in utilizing testing frameworks like Jest and Mocha to ensure reliable and high-quality code</li>
+  <li>Considerable experience in object oriented programming, implementation SOLID and REST principles</li>
+</ul>
+  
+</div>
 
 ---
 ### :fire: My Stats :
