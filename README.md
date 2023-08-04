@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Mrkrimers/Mrkrimers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Hanna <img
+<h1 align="center">Hi there, I'm Alex <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
+
+I am a Full Stack Developer <img
+src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
